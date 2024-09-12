@@ -1,1 +1,1 @@
-print()
+print("Starting Django Practice")
